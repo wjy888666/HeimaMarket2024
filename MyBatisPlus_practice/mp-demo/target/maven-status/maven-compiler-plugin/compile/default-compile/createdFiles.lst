@@ -1,0 +1,3 @@
+com\itheima\mp\domain\po\User.class
+com\itheima\mp\mapper\UserMapper.class
+com\itheima\mp\MpDemoApplication.class
