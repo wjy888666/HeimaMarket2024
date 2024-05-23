@@ -1,2 +1,8 @@
 # HeimaMarket2024
 黑马商城项目2024
+
+- 5.18 MyBatisPlus 练习
+博客整理：[MyBatisPlus入门](https://blog.csdn.net/m0_63653444/article/details/139033373?spm=1001.2014.3001.5501)
+- 5.21 docker 使用练习
+ 博客整理： [docker安装](https://blog.csdn.net/m0_63653444/article/details/139124471?spm=1001.2014.3001.5501) [docker命令大全](https://blog.csdn.net/m0_63653444/article/details/139130248?spm=1001.2014.3001.5501)
+- 5.23 **微服务拆分**
