@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/hm-cart.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/hm-item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/hm-pay.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/hm-trade.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/hm-user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/nacos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Java_heimaMarket_help/资料weifuwu/user.sql" dialect="MySQL" />
+  </component>
+</project>
