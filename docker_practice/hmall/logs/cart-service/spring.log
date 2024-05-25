@@ -1,0 +1,14 @@
+09:36:20:256  INFO 57332 --- [main] com.hmall.cart.CartApplication           : Starting CartApplication using Java 17.0.9 on 飞龙在天 with PID 57332 (D:\Java\Java_heimaMarket\docker_practice\hmall\cart-service\target\classes started by Lenovo in D:\Java\Java_heimaMarket\docker_practice\hmall)
+09:36:20:259 DEBUG 57332 --- [main] com.hmall.cart.CartApplication           : Running with Spring Boot v2.7.12, Spring v5.3.27
+09:36:20:259  INFO 57332 --- [main] com.hmall.cart.CartApplication           : The following 1 profile is active: "dev"
+09:36:21:338  INFO 57332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+09:36:21:348  INFO 57332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+09:36:21:348  INFO 57332 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.75]
+09:36:21:483  INFO 57332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+09:36:21:483  INFO 57332 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1175 ms
+09:36:22:179  INFO 57332 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+09:36:22:251  INFO 57332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+09:36:22:252  INFO 57332 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+09:36:22:254  INFO 57332 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+09:36:22:274  INFO 57332 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+09:36:22:359  INFO 57332 --- [main] com.hmall.cart.CartApplication           : Started CartApplication in 2.494 seconds (JVM running for 3.494)
