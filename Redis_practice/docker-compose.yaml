@@ -1,0 +1,18 @@
+version: "3.2"
+
+services:
+  r1:
+    image: redis
+    container_name: r1
+    network_mode: "host"
+    entrypoint: ["redis-server", "--port", "7001"]
+  r2:
+    image: redis
+    container_name: r2
+    network_mode: "host"
+    entrypoint: ["redis-server", "--port", "7002"]
+  r3:
+    image: redis
+    container_name: r3
+    network_mode: "host"
+    entrypoint: ["redis-server", "--port", "7003"]
